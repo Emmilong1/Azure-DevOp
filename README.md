@@ -21,3 +21,11 @@ You can use this from the azure shell and the machine terminal as well; personal
 - After all this, you can delete the resource to shut down the VM so as to avoid incuring unnecessary cost. The command is ```az group delete -n mYRG```
 
 There are a couple of other stuff that could be done here so I believe with time, we would address them. 
+
+## Hire me
+Looking for an engineer to build and automate your next application infrastruture/architecture to work remotely? Get in touch: sbayo971@gmail.com
+
+## How can I thank you?
+Why not star the Github repo? I'd love the attention! Why not share the link for this repository on Twitter,Hackernews or Destructoid ? Spread the word!
+
+Don't forget to follow me on [twitter](https://twitter.com/SamuelArogbonlo). Also, you could see other things I do in the software enviroment via my [website](https://samuelarogbonlo.github.io/)
